@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Expriment_next</string>
+    <string name="mynumber">李正科 201320020117</string>
+    <!-- 主界面两个按钮 -->
+    <string name="button">跳到第二个界面</string>
+    <string name="button1">跳到第三个界面</string>
+    <!-- 第二个屏幕按钮 -->
+    <string name="button2">跳到主界面</string>
+    <!-- 第三个屏幕按钮 -->
+    <string name="button3">跳到主界面</string>
+    
+    <string name ="content">这是第一个界面</string>
+    <string name ="content2">这是第二个界面</string>
+    <string name ="content3">这是第三个界面</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
