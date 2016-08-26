@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android_menu</string>
+    <string name="hello_android">Hello Android!</string>
+    <string name="start">Start</string>
+    <string name="over">Over</string>
+    <string name="contextTitle">上下文菜单</string>
+
+</resources>
