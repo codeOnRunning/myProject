@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android_Dialog</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="dialog">提示信息对话框</string>
+    <string name="normal">普通对话框</string>
+    <string name="sigleSelect">单选框按钮</string>
+    <string name="multySelect">复选框按钮</string>
+    <string name="title_activity_onepage">Onepage</string>
+
+</resources>
